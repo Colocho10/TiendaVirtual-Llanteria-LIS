@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mysSQL:
+    image: mysql:8.0
+    restart: always
+    container_name: mydb
+    environment:
+      - MYSQL_DATABASE=admin
+      - MYSQL_ROOT_PASSWORD=1234
+    ports:
+      - '3306:3306'
+    volumes:
+      - ./sql/db_llanteria.sql:/docker-entrypoint-initdb.d/db_llanteria.sql
