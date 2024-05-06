@@ -15,7 +15,11 @@
 
 # Links 🔗
 
-> Documento PDF: https://drive.google.com/file/d/1Mk57Iq0lvonYZbdEec2LhONlfTa8MEfj/view?usp=sharing
+> Documento PDF: https://drive.google.com/file/d/1Mk57Iq0lvonYZbdEec2LhONlfTa8MEfj/view?usp=sharingç
+
+> Manual de Usuario: https://drive.google.com/file/d/1Rt8oxcAyJ6iR40nlZ1OPmvN7MLAv_QFr/view?usp=sharing
+
+> Manual Tecnico: https://drive.google.com/file/d/1z0PeeUXk37xeU5rEZYMd8l_8mwDNmpnT/view?usp=sharing
 
 > Link Diagrama de lógica: https://miro.com/app/board/uXjVKcuWgeY=/?share_link_id=835413282416
 
